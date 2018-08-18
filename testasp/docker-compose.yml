@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  testasp:
+    image: ${DOCKER_REGISTRY}testasp
+    build:
+      context: .
+      dockerfile: testasp/Dockerfile
