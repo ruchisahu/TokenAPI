@@ -13,4 +13,7 @@
 ## Screenshots:
 https://github.com/ruchisahu/TokenAPI/tree/master/testasp/Screenshots
 
+## Demo:
+https://github.com/ruchisahu/TokenAPI/blob/master/testasp/record1.gif
+
 ### This is an ongoing project and we are still on initial phase.
